@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+D:\Documents\programmation\ProgAndroid\Multi-remote\.metadata\.plugins\org.eclipse.jdt.core
+932419286.index
+1451216491.index
+537441049.index
